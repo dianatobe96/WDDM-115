@@ -1,0 +1,21 @@
+body {
+    background-color: #EAE4DC;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'PT Serif', serif;
+}
+
+p, pre {
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Source Sans 3', sans-serif;
+    
+}
+
+div {
+    display: flex;
+    justify-content:center;
+}
