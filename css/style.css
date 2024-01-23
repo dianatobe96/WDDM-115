@@ -27,3 +27,9 @@ div {
     border-bottom-right-radius: 100px 100px;
 
 }
+
+.caption {
+    text-align: center;
+    color: black;
+    margin-top: 2rem;
+}
