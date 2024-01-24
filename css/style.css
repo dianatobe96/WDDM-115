@@ -11,12 +11,14 @@ h1 {
     font-size: 4rem;
     font-family: 'PT Serif', serif;
     color: white;
+    margin-bottom: -12px;
 }
 
 p, pre {
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 20px;
     font-family: 'Source Sans 3', sans-serif;
+    line-height: 20px;
     
 }
 
