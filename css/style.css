@@ -3,6 +3,7 @@ body {
     background-image: url(/WDDM-115/html/fondorosa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    margin: 0;
 }
 
 h1 {
@@ -45,3 +46,8 @@ div {
     
 }
 
+footer{
+    background: white;
+    padding: 14px;
+    margin-top: 20px;
+}
