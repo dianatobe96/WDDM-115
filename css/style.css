@@ -7,8 +7,9 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: 'PT Serif', serif;
+    color: white;
 }
 
 p, pre {
