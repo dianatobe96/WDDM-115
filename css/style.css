@@ -1,17 +1,24 @@
 body {
     background-color: #EAE4DC;
+    background-image: url(/WDDM-115/html/fondorosa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
 }
 
 h1 {
     text-align: center;
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: 'PT Serif', serif;
+    color: white;
+    margin-bottom: -12px;
 }
 
 p, pre {
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 20px;
     font-family: 'Source Sans 3', sans-serif;
+    line-height: 20px;
     
 }
 
@@ -42,3 +49,13 @@ div {
     
 }
 
+footer{
+    background: white;
+    padding: 14px;
+    margin-top: 20px;
+}
+a{
+    color: white;
+    font-weight: 900;
+    font-style: italic;
+}
